@@ -6,3 +6,6 @@ export type { Structure };
 
 import { PositionPairs } from './PositionPairs';
 export { PositionPairs };
+
+import { FirstPairedBase } from './FirstPairedBase';
+export { FirstPairedBase };
