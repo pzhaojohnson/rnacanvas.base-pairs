@@ -3,3 +3,6 @@ export type { BasePair };
 
 import type { Structure } from './Structure';
 export type { Structure };
+
+import { PositionPairs } from './PositionPairs';
+export { PositionPairs };
