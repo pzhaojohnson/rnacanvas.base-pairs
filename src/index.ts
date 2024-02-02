@@ -12,3 +12,6 @@ export { FirstPairedBase };
 
 import { LastPairedBase } from './LastPairedBase';
 export { LastPairedBase };
+
+import { LeadingDanglingBases } from './LeadingDanglingBases';
+export { LeadingDanglingBases };
