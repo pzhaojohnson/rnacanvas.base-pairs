@@ -9,3 +9,6 @@ export { PositionPairs };
 
 import { FirstPairedBase } from './FirstPairedBase';
 export { FirstPairedBase };
+
+import { LastPairedBase } from './LastPairedBase';
+export { LastPairedBase };
