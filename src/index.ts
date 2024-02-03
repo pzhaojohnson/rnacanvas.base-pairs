@@ -18,3 +18,6 @@ export { LeadingDanglingBases };
 
 import { TrailingDanglingBases } from './TrailingDanglingBases';
 export { TrailingDanglingBases };
+
+import type { Stem } from './Stem';
+export { Stem };
