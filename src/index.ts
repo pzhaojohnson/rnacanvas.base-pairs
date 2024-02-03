@@ -21,3 +21,6 @@ export { TrailingDanglingBases };
 
 import type { Stem } from './Stem';
 export { Stem };
+
+import { Stems } from './Stems';
+export { Stems };
