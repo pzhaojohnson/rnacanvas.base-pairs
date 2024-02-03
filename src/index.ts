@@ -27,3 +27,6 @@ export { Stems };
 
 import { Linker } from './Linker';
 export { Linker };
+
+import { Linkers } from './Linkers';
+export { Linkers };
