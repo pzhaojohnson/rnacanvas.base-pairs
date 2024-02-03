@@ -15,3 +15,6 @@ export { LastPairedBase };
 
 import { LeadingDanglingBases } from './LeadingDanglingBases';
 export { LeadingDanglingBases };
+
+import { TrailingDanglingBases } from './TrailingDanglingBases';
+export { TrailingDanglingBases };
