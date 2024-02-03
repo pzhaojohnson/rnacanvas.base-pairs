@@ -24,3 +24,6 @@ export { Stem };
 
 import { Stems } from './Stems';
 export { Stems };
+
+import { Linker } from './Linker';
+export { Linker };
