@@ -30,3 +30,6 @@ export { Linker };
 
 import { Linkers } from './Linkers';
 export { Linkers };
+
+import { parseDotBracket } from './parseDotBracket';
+export { parseDotBracket };
