@@ -33,3 +33,6 @@ export { Linkers };
 
 import { parseDotBracket } from './parseDotBracket';
 export { parseDotBracket };
+
+import { consecutivePairs } from './consecutivePairs';
+export { consecutivePairs };
