@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/base-pairs",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "For working with pairs between bases in a nucleic acid structure",
   "main": "./dist/index.js",
   "scripts": {
