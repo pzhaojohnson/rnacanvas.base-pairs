@@ -31,6 +31,9 @@ export { Linker };
 import { Linkers } from './Linkers';
 export { Linkers };
 
+import { knotless } from './knotless';
+export { knotless };
+
 import { parseDotBracket } from './parseDotBracket';
 export { parseDotBracket };
 
