@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/base-pairs",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "For working with pairs between bases in a nucleic acid structure",
   "main": "./dist/index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@rnacanvas/position-pairs": "^1.9.0"
+    "@rnacanvas/position-pairs": "^2.4.0"
   }
 }
