@@ -1,6 +1,9 @@
 import type { BasePair } from './BasePair';
 export type { BasePair };
 
+import { other } from './other';
+export { other };
+
 import type { Structure } from './Structure';
 export type { Structure };
 
