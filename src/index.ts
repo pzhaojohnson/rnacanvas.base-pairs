@@ -37,6 +37,9 @@ export { Linkers };
 import { knotless } from './knotless';
 export { knotless };
 
+import { radializable } from './radializable';
+export { radializable };
+
 import { parseDotBracket } from './parseDotBracket';
 export { parseDotBracket };
 
