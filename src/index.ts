@@ -45,3 +45,6 @@ export { parseDotBracket };
 
 import { consecutivePairs } from './consecutivePairs';
 export { consecutivePairs };
+
+import { parallelPairs } from './parallelPairs';
+export { parallelPairs };

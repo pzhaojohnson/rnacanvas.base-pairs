@@ -1,9 +1,6 @@
-import type { BasePair } from './BasePair';
+import type { Sequence } from './Sequence';
 
-/**
- * A sequence of bases.
- */
-export type Sequence<Nucleobase> = Nucleobase[];
+import type { BasePair } from './BasePair';
 
 /**
  * Returns all consecutive pairs of bases in the sequence of bases.

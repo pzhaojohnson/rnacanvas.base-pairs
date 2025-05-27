@@ -1,11 +1,8 @@
+import type { Sequence } from './Sequence';
+
 import type { BasePair } from './BasePair';
 
 import { parseDotBracket as parseDotBracketPP } from '@rnacanvas/position-pairs';
-
-/**
- * A sequence of nucleobases.
- */
-export type Sequence<Nucleobase> = Nucleobase[];
 
 /**
  * Returns an iterable over the base-pairs specified by the dot-bracket notation for the sequence of bases.
