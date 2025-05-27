@@ -48,3 +48,6 @@ export { consecutivePairs };
 
 import { parallelPairs } from './parallelPairs';
 export { parallelPairs };
+
+import { antiParallelPairs } from './antiParallelPairs';
+export { antiParallelPairs };
