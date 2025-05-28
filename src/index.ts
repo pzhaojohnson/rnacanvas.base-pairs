@@ -1,6 +1,9 @@
 import type { BasePair } from './BasePair';
 export type { BasePair };
 
+import { areEqual } from './areEqual';
+export { areEqual };
+
 import { other } from './other';
 export { other };
 
@@ -51,3 +54,6 @@ export { parallelPairs };
 
 import { antiParallelPairs } from './antiParallelPairs';
 export { antiParallelPairs };
+
+import { missing } from './missing';
+export { missing };
