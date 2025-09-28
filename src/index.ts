@@ -43,6 +43,9 @@ export { knotless };
 import { radializable } from './radializable';
 export { radializable };
 
+import { mountainPlotTraversal } from './mountainPlotTraversal';
+export { mountainPlotTraversal };
+
 import { parseDotBracket } from './parseDotBracket';
 export { parseDotBracket };
 
